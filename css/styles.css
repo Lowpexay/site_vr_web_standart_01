@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Noto+Serif&family=PT+Sans&display=swap');
+
+
+/* h1, h2, h3, h4 {
+    font-family: 'Noto Serif', serif;
+ } */
+
+body {
+    font-family: 'Noto Serif', serif;
+    background-color: rgb(66, 32, 32);
+}
+
+p {
+    font-size: 16px;
+    line-height: 30px;
+    color: rgb(90, 141, 187);
+    font-weight: 600;
+}
+
+li {
+    color: rgb(252, 10, 30);
+}
+
+
+h1 {
+    /* Rosa Fiap */
+    color: #DC143C;
+    font-size: 50px;
+}
+
+h2 {
+    color: rgb(184, 28, 93);
+    font-size: 30px;
+}
+
+h3 {
+    color:#ca2641;
+    font-size: 30px;
+}
+
+h4 {
+    color:#8a1024;
+    font-size: 32px;
+}
+
+h5 {
+    color: #9b1944;
+    font-size: 30px;
+}
+
+a {
+    color: #457b9d;
+    text-decoration: none;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+a:hover {
+    color: #e63946;
+    text-decoration: underline;
+}
+
+figure {
+    text-align: center;
+}
+
+figure img {
+    border-radius: 7px;
+    opacity: .7;
+}
+
+figure img:hover {
+    opacity: 1;
+}
+
